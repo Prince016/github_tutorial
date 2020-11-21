@@ -1,0 +1,8 @@
+this is a first version of the my first git tutorial program version - 1..
+
+Now this is a second commit -2 
+
+commit the basically changes the firsts txt 
+
+
+
